@@ -2,6 +2,26 @@
 
 AI-powered inventory management for Indian kirana stores.
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/01-dashboard.jpg" width="250" alt="Dashboard" />
+  <img src="screenshots/02-listen.jpg" width="250" alt="UPI Audio Processing" />
+  <img src="screenshots/03-inventory.jpg" width="250" alt="Inventory Management" />
+</div>
+
+<div align="center">
+  <img src="screenshots/04-chat.jpg" width="250" alt="AI Chat Assistant" />
+  <img src="screenshots/05-onboarding.jpg" width="250" alt="Onboarding" />
+  <img src="screenshots/06-product-recognition.jpg" width="250" alt="Product Recognition" />
+</div>
+
+<div align="center">
+  <img src="screenshots/07-analytics.jpg" width="250" alt="Analytics" />
+  <img src="screenshots/08-suggestions.jpg" width="250" alt="Smart Suggestions" />
+  <img src="screenshots/09-multilingual.jpg" width="250" alt="Multilingual Support" />
+</div>
+
 ## Features
 
 - **UPI Audio Processing** - Automatically detect payment amounts from UPI sounds
