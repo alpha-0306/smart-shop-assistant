@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "smart-shop-assistant",
-    "slug": "smart-shop-assistant",
+    "slug": "smart-kirana-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,7 +13,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mergeconflicts.smartkiranaapp",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -21,10 +25,24 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.mergeconflicts.smartkiranaapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "059c0c0c-3e44-4055-8475-cd780d5b6c24"
+      }
+    },
+    "sdkVersion": "54.0.0",
+    "owner": "merge-conflicts",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/059c0c0c-3e44-4055-8475-cd780d5b6c24"
     }
   }
 }

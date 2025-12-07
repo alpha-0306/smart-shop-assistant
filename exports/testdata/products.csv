@@ -1,0 +1,21 @@
+product_id,name,category,price,unit,initial_stock
+p001,Parle-G Biscuits 80g,snacks,30.0,packet,50
+p002,Lays Chips 40g,snacks,20.0,packet,100
+p003,Britannia Bread,bakery,45.0,loaf,30
+p004,Amul Milk 500ml,dairy,60.0,bottle,30
+p005,Tata Tea 250g,beverages,150.0,packet,25
+p006,Maggi Noodles 70g,instant food,14.0,packet,80
+p007,Sunflower Oil 1L,cooking,180.0,bottle,20
+p008,Tata Salt 1kg,staple,22.0,packet,40
+p009,Aashirvaad Atta 1kg,grains,55.0,packet,35
+p010,Rice 1kg,grains,70.0,packet,30
+p011,Sugar 1kg,staple,50.0,packet,25
+p012,Toor Dal 500g,pulses,90.0,packet,20
+p013,Colgate Toothpaste 100g,hygiene,85.0,tube,40
+p014,Detergent Powder 1kg,household,120.0,packet,15
+p015,Cold Drink 500ml,soft drink,40.0,bottle,60
+p016,Soap Bar,hygiene,35.0,bar,50
+p017,Hide & Seek Biscuits,snacks,50.0,packet,45
+p018,Instant Coffee Sachet,beverages,10.0,sachet,100
+p019,Candy Packets,convenience,5.0,packet,150
+p020,Packaged Juice 200ml,beverages,25.0,pack,70
